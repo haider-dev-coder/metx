@@ -16,8 +16,10 @@ A social media application built with Expo, React Native, Convex, and Clerk. Sha
 
 ## App Preview
 
-For Both Android And IOS 
-<img src="docs/screenshots/android_ios.png" alt="Explore screen on Android and iOS" width="600" />
+| Home Feed | Explore |
+|:---:|:---:|
+| <img src="docs/screenshots/home-android.png" alt="Home feed on iOS" width="320" /> | <img src="docs/screenshots/explore-android.png" alt="Explore screen on Android and iOS" width="320" /> |
+| **Home Feed** — Posts, stories carousel, likes, comments | **Explore** — Search, topics, suggested people |
 
 ## Key Features
 
@@ -275,3 +277,4 @@ metx/
 5. Submit a pull request
 
 Please follow the existing code style (TypeScript strict, functional components, Convex patterns).
+
