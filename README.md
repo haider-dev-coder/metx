@@ -16,10 +16,9 @@ A social media application built with Expo, React Native, Convex, and Clerk. Sha
 
 ## App Preview
 
-| Home Feed | Explore |
+| IOS | For Both Android And Ios |
 |:---:|:---:|
 | <img src="docs/screenshots/metx_screen.png" alt="Home feed on iOS" width="320" /> | <img src="docs/screenshots/android_ios.png" alt="Explore screen on Android and iOS" width="320" /> |
-| **Home Feed** — Posts, stories carousel, likes, comments | **Explore** — Search, topics, suggested people |
 
 ## Key Features
 
