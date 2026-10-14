@@ -64,3 +64,13 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+
+*.desgin
+*.PLAN
+*.artifacts
+*.docs
+*.legal
+*.claude
+*.CLAUDE.md
+*.AGENTS.md
