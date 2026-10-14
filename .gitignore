@@ -66,11 +66,20 @@ Thumbs.db
 *.temp
 
 
+# Design files
 *.desgin
+
+# Plan files
 *.PLAN
+
+# Artifacts
 *.artifacts
-*.docs
-*.legal
-*.claude
-*.CLAUDE.md
-*.AGENTS.md
+
+# Project directories
+docs/
+legal/
+.claude/
+
+# Claude and agent instructions
+CLAUDE.md
+AGENTS.md
