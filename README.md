@@ -65,7 +65,7 @@ For Both Android And IOS
 
 ```bash
 # Clone the repository
-git clone https://github.com/haiderfareed2323/metx.git
+git clone https://github.com/haider-dev-coder/metx
 cd metx
 
 # Install dependencies
@@ -275,17 +275,3 @@ metx/
 5. Submit a pull request
 
 Please follow the existing code style (TypeScript strict, functional components, Convex patterns).
-
-
-
-## Author
-
-**Burak Orkmез** — [GitHub](https://github.com/haiderfareed2323)
-
-## Links
-
-- **Convex Dashboard** — https://dashboard.convex.dev
-- **Clerk Dashboard** — https://dashboard.clerk.com
-- **Sentry Project** — https://codesistency-gs.sentry.io/issues/?project=4512078093942864
-- **Expo Project** — https://expo.dev/accounts/haiderfareed2323/projects/metx
-- **EAS Build** — https://expo.dev/accounts/haiderfareed2323/projects/metx/builds
